@@ -1,7 +1,7 @@
 Below are the deployment links of this Project
 
-GitHub Pages- https://deepak8260.github.io/Event-Invitition-using-HTML-by-Kumar/
+GitHub Pages- https://deepak8260.github.io/Photography-Html-Website-by-Kumar/
 
-Netlify - https://kumaraieventinvitition.netlify.app/
+Netlify - https://kumarai-photography-html.netlify.app/
 
-Versel - https://kumaraieventinvitition.vercel.app/
+Versel - https://kumarai-photography-html.vercel.app/
